@@ -15,9 +15,9 @@ If you don't like the sharp square borders, then use clipoval. It will automatic
 ### ClipPath
 ClipPath also works like clip oval but we need to use custom clipper for more customization of clipper.
 
-
 ### ConstrainedBox
 If we want to maintain a minimum and maximum width and heights to a widget, then we can use this widget with the help of it's property constraints and it's class BoxConstraints. Suppose a long text widget is inserted in a container widget, then we can use this constrained widget to set minimum and maximum width and height properties.
+
 ---
 
 
